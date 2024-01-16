@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react"
 import './index.less'
+import {formatNumber} from './utils'
+import AudioPlayer from './components/audioPlayer.tsx'
 
 function DeltaFlyerPage() {
   const [data, setData] = useState(null)
@@ -50,6 +52,12 @@ function DeltaFlyerPage() {
     setInputValue(event.target.value);
   };
 
+  
+
+  const handleGoDetail = () => {
+    const lessonRecourse = formatNumber(data[0].lesson)
+    window.open(`http://www.newconceptenglish.com/index.php?id=course-2-${lessonRecourse}`, '_blank');
+  }
 
   if (loading) {
     return <div>Loading...</div>
@@ -79,8 +87,11 @@ function DeltaFlyerPage() {
           <div className="span">
           new concept: 
           Book II Lesson {data[0].lesson} - {data[0].order}
+          <span className="link" onClick={handleGoDetail}> ☞ </span>
           </div>
         </div>
+
+        <AudioPlayer></AudioPlayer>
         <div className="sentence">
         {data.map((item, index) => (
           <div className="item" key={index}><code>{item.text}</code></div>

@@ -28,7 +28,8 @@
       {
         "resources": [
           "~raw.js",
-          "resources/lesson.json"
+          "resources/lesson.json",
+          "resources/nce/*"
         ],
         "matches": [
           "https://www.plasmo.com/*"
