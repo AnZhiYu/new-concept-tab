@@ -24,8 +24,20 @@
     "typescript": "5.2.2"
   },
   "manifest": {
-    "host_permissions": [
-      "https://*/*"
-    ]
+    "web_accessible_resources": [
+      {
+        "resources": [
+          "~raw.js",
+          "resources/lesson.json"
+        ],
+        "matches": [
+          "https://www.plasmo.com/*"
+        ]
+      }
+    ],
+    "browser_action": "new_tab",
+    "chrome_url_overrides": {
+      "newtab": "tabs/page.html"
+    }
   }
 }

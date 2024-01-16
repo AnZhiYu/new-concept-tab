@@ -1,0 +1,172 @@
+// #fe1605
+// #f3ca7e
+// code rgba(27,31,35,0.05)
+// #0e0f0f
+* {
+    /* Reset some default browser styles */
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    ol,
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Apply a box-sizing border-box to all elements */
+    * {
+        box-sizing: border-box;
+    }
+
+    /* Set default font family and size */
+    body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+    }
+
+    /* Reset list styles */
+    ul,
+    ol {
+        list-style: none;
+    }
+
+    /* Reset anchor styles */
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    /* Reset heading styles */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-weight: normal;
+    }
+
+    /* Reset paragraph styles */
+    p {
+        margin-bottom: 1em;
+    }
+
+    /* Set default width and height for images */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Set default styles for buttons */
+    button,
+    input[type="button"],
+    input[type="submit"] {
+        cursor: pointer;
+        border: none;
+        background-color: transparent;
+    }
+
+    /* Add any additional CSS reset or default styles below */
+}
+
+
+.page {
+    text-align: center;
+    height: 100vh;
+    overflow: hidden;
+    color: #21212a;
+    background: linear-gradient(to bottom, #ffffff 80%, #ebebeb 100%);
+
+    .red {
+        color: #fe1605;
+    }
+
+    .search {
+        margin: 20px 20%;
+        input{
+            font-size: 16px;
+            padding-left: 20px;
+            width: 100%;
+            backdrop-filter: blur(18px);
+            box-shadow: 0 0 10px 3px #0000001a;
+            z-index: 1;
+            border-radius: 23px;
+            height: 46px;
+            background-color: rgba( 255, 255, 255 , 0.7);
+            // transition: background .2s;
+            color: #222;
+        }
+
+    }
+
+    .line{
+        margin: 20px 20%;
+        text-align: left;
+        border-bottom: 1px solid #353740;
+        
+
+        .span {
+            background-color: #f3ca7e;
+            color: #21212a;
+            display: inline-block;
+            width: auto;
+            height: 28px;
+            justify-content: center;
+            align-items: center;
+            padding: 5.5px 5px;
+            font-weight: 900;
+            transition: all 0.3s ease-in-out;
+        }
+    }
+
+    .title {
+        padding: 100px 0 50px;
+        font-size: 32px;
+        background: linear-gradient(to top, #ffffff 0%, #ebebeb 100%);
+        font-family: 'Roboto Mono', 'source-code-pro', 'Menlo', 'Monaco', 'Consolas', 'Courier New', monospace;
+    }
+
+    .sentence {
+        padding: 0 20%;
+        text-align: left;
+        font-family: 'Roboto Mono', 'source-code-pro', 'Menlo', 'Monaco', 'Consolas', 'Courier New', monospace;
+
+        .item{
+            margin-bottom: 16px;
+            background-color: #ebebeb;
+            padding: 16px;
+            border-radius: 3px;
+            line-height: 32px;
+        }
+    }
+
+
+    // --color__white: #0e0f0f;
+    // --color__white--dark: #202123;
+    // --color__gray: #353740;
+    // --color__gray--light: #ebebeb;
+    // --color__gray--dark: #ffffff;
+    // --color__orange: #ce0e00;
+    // --color__orange--light: #fe1605;
+    // --color__header__gradient: linear-gradient(to top, #ffffff 0%, #ebebeb 100%);
+
+    .copyright{
+        font-size: 12px;
+         position: fixed;
+         bottom: 16px;
+         left: 0;
+         right: 0;
+         margin: auto;
+         color: transparent;
+         cursor: pointer;
+
+         &:hover{
+            color: rgba( 239, 179, 54, 1);
+         }
+    }
+}
