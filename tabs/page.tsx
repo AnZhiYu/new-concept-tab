@@ -85,7 +85,7 @@ function DeltaFlyerPage() {
         </div>
         <div className="line">
           <div className="span">
-          new concept: 
+          NCE : 
           Book II Lesson {data[0].lesson} - {data[0].order}
           <span className="link" onClick={handleGoDetail}> ☞ </span>
           </div>

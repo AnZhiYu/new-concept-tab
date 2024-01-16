@@ -1,8 +1,11 @@
 import React, { useState, useEffect, useRef } from 'react';
+import {formatTime}  from '../utils'
+import "../../style.css"
 
 const AudioPlayer = () => {
   const audioRef = useRef(null);
   const [lyrics, setLyrics] = useState([]);
+  const [time, setTime] = useState(null);
   const [currentLyric, setCurrentLyric] = useState('');
 
   const parseLRC = (lrcText) => {
@@ -49,7 +52,9 @@ const AudioPlayer = () => {
   useEffect(() => {
     audioRef.current.addEventListener('timeupdate', () => {
       const currentTime = audioRef.current.currentTime * 1000;
+      // console.log('currentTime', currentTime)
       displayLyrics(currentTime);
+      setTime(currentTime)
     });
 
     return () => {
@@ -61,10 +66,20 @@ const AudioPlayer = () => {
     loadLRC('../../resources/nce/01.lrc');
   }, []);
 
+  const playAudio = () => {
+    audioRef.current.play();
+  };
+
+  const pauseAudio = () => {
+    audioRef.current.pause();
+  };
+
   return (
     <div>
-      <audio ref={audioRef} controls src="../../resources/nce/01.MP3" />
-      <div>{currentLyric}</div>
+      <div className='text-left mx-[20%] bg-[#ebebeb] leading-8 mb-4 p-4 rounded-[3px]'>
+      {/* <span onClick={playAudio}>播放: {formatTime(time)} </span> */}
+      <audio className='text-left h-5 w-[100%]' ref={audioRef} controls src="../../resources/nce/01.MP3" />
+      {currentLyric}</div>
     </div>
   );
 };
