@@ -1,7 +1,28 @@
 import { useEffect, useState } from "react"
 import './index.less'
-import {formatNumber} from './utils'
-import AudioPlayer from './components/audioPlayer.tsx'
+// import {formatNumber} from './utils'
+// import AudioPlayer from './components/audioPlayer.tsx'
+
+
+const  formatNumber = (num) => {
+  if (num < 10) {
+    return "00" + num;
+  } else if (num < 100) {
+    return "0" + num;
+  } else {
+    return num.toString();
+  }
+}
+
+
+const formatTime = (timestamp) => {
+const date = new Date(timestamp); // 将时间戳转换为毫秒
+const hours = date.getUTCHours().toString().padStart(2, '0'); // 小时
+const minutes = date.getUTCMinutes().toString().padStart(2, '0'); // 分钟
+const seconds = date.getUTCSeconds().toString().padStart(2, '0'); // 秒钟
+return `${hours}:${minutes}:${seconds}`;
+}
+
 
 function DeltaFlyerPage() {
   const [data, setData] = useState(null)
@@ -91,7 +112,7 @@ function DeltaFlyerPage() {
           </div>
         </div>
 
-        <AudioPlayer></AudioPlayer>
+        {/* <AudioPlayer /> */}
         <div className="sentence">
         {data.map((item, index) => (
           <div className="item" key={index}><code>{item.text}</code></div>

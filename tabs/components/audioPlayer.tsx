@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef } from 'react';
-import {formatTime}  from '../utils'
 import "../../style.css"
 
 const AudioPlayer = () => {
@@ -78,8 +77,9 @@ const AudioPlayer = () => {
     <div>
       <div className='text-left mx-[20%] bg-[#ebebeb] leading-8 mb-4 p-4 rounded-[3px]'>
       {/* <span onClick={playAudio}>播放: {formatTime(time)} </span> */}
-      <audio className='text-left h-5 w-[100%]' ref={audioRef} controls src="../../resources/nce/01.MP3" />
-      {currentLyric}</div>
+      <audio className='text-left h-5 w-[30%] inline-block' ref={audioRef} controls src="../../resources/nce/01.MP3" />
+      <span className='ml-2'>{currentLyric}</span>
+      </div>
     </div>
   );
 };
