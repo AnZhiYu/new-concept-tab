@@ -3,7 +3,6 @@ import './index.less'
 // import {formatNumber} from './utils'
 // import AudioPlayer from './components/audioPlayer.tsx'
 
-
 const  formatNumber = (num) => {
   if (num < 10) {
     return "00" + num;
@@ -13,7 +12,6 @@ const  formatNumber = (num) => {
     return num.toString();
   }
 }
-
 
 const formatTime = (timestamp) => {
 const date = new Date(timestamp); // 将时间戳转换为毫秒
@@ -28,7 +26,6 @@ function DeltaFlyerPage() {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(true)
   const [inputValue, setInputValue] = useState('');
-
   const [time, setTime] = useState(new Date());
 
   useEffect(() => {
@@ -45,10 +42,8 @@ function DeltaFlyerPage() {
       try {
         const response = await fetch("../resources/lesson.json")
         const jsonData = await response.json()
-
         const index = Math.floor(Math.random() * 657);
-
-        console.log('index', index)
+        
         setData([jsonData[index],jsonData[index+1], jsonData[index+2]])
         setLoading(false)
       } catch (error) {
@@ -73,8 +68,6 @@ function DeltaFlyerPage() {
     setInputValue(event.target.value);
   };
 
-  
-
   const handleGoDetail = () => {
     const lessonRecourse = formatNumber(data[0].lesson)
     window.open(`http://www.newconceptenglish.com/index.php?id=course-2-${lessonRecourse}`, '_blank');
@@ -92,11 +85,8 @@ function DeltaFlyerPage() {
   const minutes = time.getMinutes().toString().padStart(2, '0');
   const seconds = time.getSeconds().toString().padStart(2, '0');
 
-
   return (
-    <div
-      className="page"
-      >
+    <div className="page">
         <div className="title">
         <p>{`${hours}:${minutes}:${seconds}`}</p></div>
         <div className="search">
@@ -111,7 +101,6 @@ function DeltaFlyerPage() {
           <span className="link" onClick={handleGoDetail}> ☞ </span>
           </div>
         </div>
-
         {/* <AudioPlayer /> */}
         <div className="sentence">
         {data.map((item, index) => (
