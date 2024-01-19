@@ -25,6 +25,8 @@ return `${hours}:${minutes}:${seconds}`;
 function DeltaFlyerPage() {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(true)
+  const [wordList, setWordList] = useState([])
+  
   const [inputValue, setInputValue] = useState('');
   const [time, setTime] = useState(new Date());
 
@@ -41,6 +43,10 @@ function DeltaFlyerPage() {
     const fetchData = async () => {
       try {
         const response = await fetch("../resources/lesson.json")
+        const word = await fetch("../resources/word.json")
+        const wordJson = await word.json()
+        setWordList(wordJson)
+
         const jsonData = await response.json()
         const index = Math.floor(Math.random() * 657);
         
@@ -85,6 +91,30 @@ function DeltaFlyerPage() {
   const minutes = time.getMinutes().toString().padStart(2, '0');
   const seconds = time.getSeconds().toString().padStart(2, '0');
 
+  function renderWithSpan(text) {
+    const wordsToWrap = wordList.map(item=>item.key)
+
+    const regex = /(\w+)([^\w]*)/g;
+    const renderedText = [];
+  
+    let match;
+    while ((match = regex.exec(text)) !== null) {
+      const word = match[1];
+      const punctuation = match[2];
+  
+      if (wordsToWrap.includes(word)) {
+        renderedText.push(<span className="code" key={renderedText.length}>{word}</span>);
+      } else {
+        renderedText.push(word);
+      }
+  
+      renderedText.push(punctuation);
+    }
+  
+    return <>{renderedText}</>;
+  }
+
+
   return (
     <div className="page">
         <div className="title">
@@ -104,7 +134,7 @@ function DeltaFlyerPage() {
         {/* <AudioPlayer /> */}
         <div className="sentence">
         {data.map((item, index) => (
-          <div className="item" key={index}><code>{item.text}</code></div>
+          <div className="item" key={index}>{renderWithSpan(item.text)}</div>
         ))}
         </div>
         <div className="copyright">By: grey1896</div>

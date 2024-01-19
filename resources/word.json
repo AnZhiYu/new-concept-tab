@@ -1,0 +1,3066 @@
+[
+    {
+        "key": "private",
+        "value": "a. 私人的; n. 士兵"
+    },
+    {
+        "key": "conversation",
+        "value": "n. 会话,谈话"
+    },
+    {
+        "key": "theatre",
+        "value": "n. 剧场,戏院"
+    },
+    {
+        "key": "seat",
+        "value": "n. 位子,席次,所在地; v. 坐"
+    },
+    {
+        "key": "play",
+        "value": "n. 游戏,游玩,剧本,比赛; v. 玩,进行比赛,演奏,播放"
+    },
+    {
+        "key": "loudly",
+        "value": "ad.大声地"
+    },
+    {
+        "key": "angry",
+        "value": "a. 生气的"
+    },
+    {
+        "key": "angrily",
+        "value": "ad. 气愤地"
+    },
+    {
+        "key": "attention",
+        "value": "n. 注意,(口令)立正!"
+    },
+    {
+        "key": "bear",
+        "value": "n. 熊; v. 忍受,负荷; v. 结果实,生子女"
+    },
+    {
+        "key": "business",
+        "value": "n. 商业,生意,事务"
+    },
+    {
+        "key": "rudely",
+        "value": "adv. 无礼地; 粗暴地"
+    },
+    {
+        "key": "outside",
+        "value": "ad. 在外面; n.&a. 外部; prep. 在...外; pron. 在...外边"
+    },
+    {
+        "key": "ring",
+        "value": "n. 环,戒指,铃声; v. 响,鸣,回响"
+    },
+    {
+        "key": "aunt",
+        "value": "n. 伯母,姑,婶,姨"
+    },
+    {
+        "key": "repeat",
+        "value": "n. 重复,反复; v. 重复,复述,复诵"
+    },
+    {
+        "key": "postcard",
+        "value": "n. 明信片"
+    },
+    {
+        "key": "spoil",
+        "value": "n. 战利品,奖品; v. 宠坏,溺爱,破坏,腐坏"
+    },
+    {
+        "key": "museum",
+        "value": "n. 博物馆"
+    },
+    {
+        "key": "public",
+        "value": "a. 公共的,公众的; n. 公众,民众"
+    },
+    {
+        "key": "friendly",
+        "value": "a. 友好的"
+    },
+    {
+        "key": "waiter",
+        "value": "n. 侍者,服务员"
+    },
+    {
+        "key": "lend",
+        "value": "v. 借,贷款,增添"
+    },
+    {
+        "key": "decision",
+        "value": "n. 决定,决心"
+    },
+    {
+        "key": "whole",
+        "value": "a. 整个的; n. 全部"
+    },
+    {
+        "key": "single",
+        "value": "a. 单身的,单纯的,单一的"
+    },
+    {
+        "key": "receive",
+        "value": "v. 收到,接受,迎接"
+    },
+    {
+        "key": "firm",
+        "value": "a. 坚定的,坚固的,结实的; ad. 稳固地,坚定地; n. 商行,公司; v. (使)变得坚实"
+    },
+    {
+        "key": "different",
+        "value": "a. 不同的"
+    },
+    {
+        "key": "centre",
+        "value": "n. 中心; v. 置于中央"
+    },
+    {
+        "key": "abroad",
+        "value": "a. 在国外,海外(一般作表语); ad. 到国外,在国外"
+    },
+    {
+        "key": "message",
+        "value": "n. 消息,信息"
+    },
+    {
+        "key": "over",
+        "value": "a. 结束的; ad. 结束; prep. 在...的上方; v. 越过"
+    },
+    {
+        "key": "distance",
+        "value": "n. 距离"
+    },
+    {
+        "key": "request",
+        "value": "n. 要求,请求; vt. 请求,要求"
+    },
+    {
+        "key": "spare",
+        "value": "n. 剩余,备用零件,备用轮胎; a. 多余的,备用的,简陋的; v.节约"
+    },
+    {
+        "key": "service",
+        "value": "n. 服务,公务部门,服役; vt. 维护,保养"
+    },
+    {
+        "key": "food",
+        "value": "n. 食物"
+    },
+    {
+        "key": "pocket",
+        "value": "n. 口袋,钱,袋; v. 装...在口袋里,隐藏,私吞"
+    },
+    {
+        "key": "call",
+        "value": "n. 呼叫,访问,打电话; v. 呼叫,访问,打电话; n.[计算机] DOS命令 : 从当前运行的批文件中引用第二个批文件,然后返回到原来的批文件"
+    },
+    {
+        "key": "airport",
+        "value": "n. 机场"
+    },
+    {
+        "key": "expect",
+        "value": "v. 预期,盼望,期待"
+    },
+    {
+        "key": "valuable",
+        "value": "a. 贵重的,有价值的; n. (pl.)贵重物品"
+    },
+    {
+        "key": "parcel",
+        "value": "n. 包裹; v. 打包,捆扎; vt. 打包"
+    },
+    {
+        "key": "diamond",
+        "value": "n. 钻石"
+    },
+    {
+        "key": "steal",
+        "value": "v. 偷"
+    },
+    {
+        "key": "main",
+        "value": "a. 主要的; n. 主要部分,干线"
+    },
+    {
+        "key": "airfield",
+        "value": "n. 飞机场"
+    },
+    {
+        "key": "guard",
+        "value": "n. 守卫者,警戒; v. 保卫,看守,当心"
+    },
+    {
+        "key": "precious",
+        "value": "a. 宝贵的,珍贵的"
+    },
+    {
+        "key": "stone",
+        "value": "a. 石制的; n. 石头; vt. 向...扔石头"
+    },
+    {
+        "key": "sand",
+        "value": "n. 砂,沙滩; v. 撒沙,以沙掩盖"
+    },
+    {
+        "key": "neat",
+        "value": "a. 整洁的,巧妙的,端正的"
+    },
+    {
+        "key": "path",
+        "value": "n. 路线,轨道,路程,小路,小径"
+    },
+    {
+        "key": "wooden",
+        "value": "a. 木制的"
+    },
+    {
+        "key": "pool",
+        "value": "n. 池,水塘,撞球"
+    },
+    {
+        "key": "crowd",
+        "value": "n. 群众,一伙; v. 拥挤,挤满,挤进; 一堆,许多"
+    },
+    {
+        "key": "gather",
+        "value": "n. 集合,聚集; v. 聚集,集合,渐增; vt. 使聚集，推断"
+    },
+    {
+        "key": "hand",
+        "value": "n. 手,掌握,协助; v. 支持,交给"
+    },
+    {
+        "key": "shout",
+        "value": "n. 呼喊,突发的大笑; v. 呼喊,高声谈笑,玩乐"
+    },
+    {
+        "key": "refuse",
+        "value": "n. 废物,垃圾; vi. 不愿,拒绝; vt. 拒绝"
+    },
+    {
+        "key": "laugh",
+        "value": "n. 笑,笑声; v. 笑"
+    },
+    {
+        "key": "musical",
+        "value": "a. 音乐的; n. 音乐片"
+    },
+    {
+        "key": "instrument",
+        "value": "n. 乐器,工具,仪器,器械"
+    },
+    {
+        "key": "clavichord",
+        "value": "n. 翼琴(钢琴的前身)"
+    },
+    {
+        "key": "recently",
+        "value": "ad. 最近"
+    },
+    {
+        "key": "damage",
+        "value": "n. (pl.)赔偿金,损坏,毁坏; v. 损害,毁坏"
+    },
+    {
+        "key": "key",
+        "value": "a. 主要的,关键的; n. 钥匙; vt. 键入"
+    },
+    {
+        "key": "string",
+        "value": "n. 线,一串,字串; v. 串起,成串,收紧"
+    },
+    {
+        "key": "shock",
+        "value": "n. 震动,冲突,震惊; v. 震动,冲突,使...受电击"
+    },
+    {
+        "key": "allow",
+        "value": "v. 允许,准许; vi. (for)考虑到; vt. 允许"
+    },
+    {
+        "key": "touch",
+        "value": "n. 触觉,接触,少许; v. 接触,触及,感动"
+    },
+    {
+        "key": "deserve",
+        "value": "vi. 应该得到; vt. 应受,值得"
+    },
+    {
+        "key": "lawyer",
+        "value": "n. 律师"
+    },
+    {
+        "key": "bank",
+        "value": "n. 银行,堤,岸"
+    },
+    {
+        "key": "salary",
+        "value": "n. 薪水; vt. 给...薪水"
+    },
+    {
+        "key": "immediately",
+        "value": "ad. 立即; conj. 一...(就)"
+    },
+    {
+        "key": "captain",
+        "value": "n. 船长; v. 率领,指挥"
+    },
+    {
+        "key": "sail",
+        "value": "航行"
+    },
+    {
+        "key": "harbour",
+        "value": "n. 海港; vt 停泊"
+    },
+    {
+        "key": "proud",
+        "value": "a. 骄傲的,自豪的"
+    },
+    {
+        "key": "important",
+        "value": "a. 重要的"
+    },
+    {
+        "key": "pop singer",
+        "value": "流行歌手"
+    },
+    {
+        "key": "club",
+        "value": "n. 俱乐部; v. 用棍棒打"
+    },
+    {
+        "key": "performance",
+        "value": "n. 表演,表现; n. 性能"
+    },
+    {
+        "key": "occasion",
+        "value": "n. 场合,机会,理由; v. 致使,惹起,引起"
+    },
+    {
+        "key": "experience",
+        "value": "n. 经历,经验; v. 经历,体验"
+    },
+    {
+        "key": "wave",
+        "value": "n. 波,波浪,波动; v. 波动,挥动,起伏"
+    },
+    {
+        "key": "lift",
+        "value": "n. 举起,帮助,昂扬; n. 电梯; v. 升高,举起,消散"
+    },
+    {
+        "key": "reply",
+        "value": "v.&n. 回答,答复"
+    },
+    {
+        "key": "language",
+        "value": "n. 语言"
+    },
+    {
+        "key": "journey",
+        "value": "n. 旅程,旅行,行程; v. 旅行"
+    },
+    {
+        "key": "nervous",
+        "value": "a. 紧张的"
+    },
+    {
+        "key": "afford",
+        "value": "v. 提供,供应得起,给予"
+    },
+    {
+        "key": "weak",
+        "value": "a. 不充分的,淡薄的,弱的,虚弱的,无力的"
+    },
+    {
+        "key": "interrupt",
+        "value": "n. 中断; v. 打断,妨碍,插嘴; [计算机] 中断"
+    },
+    {
+        "key": "traffic",
+        "value": "a. 交通的; n. 交通; vi. 交易,买卖"
+    },
+    {
+        "key": "ticket",
+        "value": "n. 票,券"
+    },
+    {
+        "key": "note",
+        "value": "n. 笔记,注解,备忘录; v. 记录,注解,注意; n. 票据,便条,纸币"
+    },
+    {
+        "key": "area",
+        "value": "n. 地区,区域,面积,方面"
+    },
+    {
+        "key": "sign",
+        "value": "n. 符号,正负号,手势,迹象,招牌; v. 签，做手势，做标记"
+    },
+    {
+        "key": "reminder",
+        "value": "n. 提醒的人,催函"
+    },
+    {
+        "key": "fail",
+        "value": "v. 失败,不及格,辜负,缺少"
+    },
+    {
+        "key": "obey",
+        "value": "v. 服从,听从"
+    },
+    {
+        "key": "stage",
+        "value": "n. 阶段,舞台,驿站; v. 上演,表演,乘驿车旅行"
+    },
+    {
+        "key": "bright",
+        "value": "a. 明亮的,阳光的; ad. 亮"
+    },
+    {
+        "key": "stocking",
+        "value": "n. 长袜"
+    },
+    {
+        "key": "sock",
+        "value": "n. 短袜; v. 重击,痛打"
+    },
+    {
+        "key": "landlord",
+        "value": "n. 地主,房东"
+    },
+    {
+        "key": "bill",
+        "value": "比尔(男名); n. 帐单,钞票,票据,清单,议案,法案,广告,鸟嘴,喙; vt.开帐单,用海报宣传,把...列成表"
+    },
+    {
+        "key": "ticket office",
+        "value": "售票处"
+    },
+    {
+        "key": "pity",
+        "value": "n. 遗憾,同情,可惜; v. 同情,怜悯"
+    },
+    {
+        "key": "exclaim",
+        "value": "v. 大叫,呼喊,大声叫"
+    },
+    {
+        "key": "return",
+        "value": "n. 返回,归还,报答; v. 返回,归还,回来"
+    },
+    {
+        "key": "sadly",
+        "value": "ad. 悲痛地,悲惨地,悲伤地"
+    },
+    {
+        "key": "fisherman",
+        "value": "n. 渔夫"
+    },
+    {
+        "key": "boot",
+        "value": "n. 靴子,[英]汽车行李箱; vt. 踢"
+    },
+    {
+        "key": "waste",
+        "value": "浪费; 废料、垃圾。"
+    },
+    {
+        "key": "realize",
+        "value": "v. 了解,实现,净得; 察觉;领悟"
+    },
+    {
+        "key": "reason",
+        "value": "n. 理由,原因,理智,理性; v. 说服,推论,下判断"
+    },
+    {
+        "key": "sum",
+        "value": "n. 总数,全部,概略; v. 总计,概括,合计"
+    },
+    {
+        "key": "determined",
+        "value": "a. 坚决的"
+    },
+    {
+        "key": "age",
+        "value": "n. 年龄; v. (使)变老; vi. 变老"
+    },
+    {
+        "key": "channel",
+        "value": "n. 通道,频道,海峡; v. 引导,开导,形成河道"
+    },
+    {
+        "key": "throw",
+        "value": "n. 投,掷,抛; v. 丢,掷,抛"
+    },
+    {
+        "key": "modern",
+        "value": "a. 现代的; n. 现代人"
+    },
+    {
+        "key": "strange",
+        "value": "a. 陌生的,奇怪的"
+    },
+    {
+        "key": "district",
+        "value": "n. 区,地区,行政区; v. 区,区域,地区"
+    },
+    {
+        "key": "upset",
+        "value": "a. 烦乱的,不高兴; v. 颠覆,推翻,扰乱,使心烦意乱,使不舒服"
+    },
+    {
+        "key": "sympathetic",
+        "value": "a. 同情的,共鸣的"
+    },
+    {
+        "key": "complain",
+        "value": "v. 抱怨,悲叹,控诉"
+    },
+    {
+        "key": "wicked",
+        "value": "a. 坏的,邪恶的,缺德的"
+    },
+    {
+        "key": "contain",
+        "value": "v. 包含,容纳,容忍"
+    },
+    {
+        "key": "honesty",
+        "value": "n. 诚实,正直"
+    },
+    {
+        "key": "porter",
+        "value": "n. 搬运工人, 守门人，门房"
+    },
+    {
+        "key": "several",
+        "value": "a. 几个,若干; pron. 几个"
+    },
+    {
+        "key": "foreigner",
+        "value": "n. 外国人"
+    },
+    {
+        "key": "wonder",
+        "value": "n. 奇迹,惊奇,惊谔; v. 惊奇,想知道,怀疑; adj.奇妙的,非凡的"
+    },
+    {
+        "key": "critic",
+        "value": "n. 批评家,评论家"
+    },
+    {
+        "key": "paint",
+        "value": "n. 油漆,颜料,绘画作品; v. 油漆,绘画"
+    },
+    {
+        "key": "pretend",
+        "value": "v. 假装,伪称"
+    },
+    {
+        "key": "pattern",
+        "value": "n. 图案,式样,典范; v. 仿造,模仿"
+    },
+    {
+        "key": "curtain",
+        "value": "n. 窗帘"
+    },
+    {
+        "key": "material",
+        "value": "n. 材料,原料,物质;; n. 素材,题材,资料; a. 物质的,实体的"
+    },
+    {
+        "key": "appreciate",
+        "value": "v. 欣赏,感激,赏识; v. 增值; v. 领会，充分意识"
+    },
+    {
+        "key": "notice",
+        "value": "n. 注意,布告,通知; v. 注意,通知,留心"
+    },
+    {
+        "key": "whether",
+        "value": "conj.&ad. 是否"
+    },
+    {
+        "key": "hang",
+        "value": "n. 悬挂,吊死; v. (hanged,hanged) 悬挂,绞死,逗留"
+    },
+    {
+        "key": "critically",
+        "value": "ad. 批评性地,用钻研眼光地,精密地"
+    },
+    {
+        "key": "upside",
+        "value": "n. 上侧,上段,上部"
+    },
+    {
+        "key": "field",
+        "value": "a. 野外; n. 地,田地"
+    },
+    {
+        "key": "smell",
+        "value": "n. 味道,气味,嗅; v. 闻,探出,发臭"
+    },
+    {
+        "key": "wonderful",
+        "value": "a. 极好的,精彩的"
+    },
+    {
+        "key": "campfire",
+        "value": "n. 营火,篝火"
+    },
+    {
+        "key": "creep",
+        "value": "n. 爬,徐行,蠕动; v. 爬,蔓延"
+    },
+    {
+        "key": "sleeping bag",
+        "value": "睡袋"
+    },
+    {
+        "key": "comfortable",
+        "value": "a. 舒适的"
+    },
+    {
+        "key": "soundly",
+        "value": "ad. 完全地,健全地,坚牢地"
+    },
+    {
+        "key": "leap",
+        "value": "n. 跳跃,剧增,急变; v. 跳跃,跃过,猛冲; a. 闰年的"
+    },
+    {
+        "key": "heavily",
+        "value": "ad. 很重地,沉重地,沉闷地"
+    },
+    {
+        "key": "stream",
+        "value": "n. 流,水流,人潮; v. 使流出,流动"
+    },
+    {
+        "key": "form",
+        "value": "n. 形式,形状,表格; v. 形成,组成,建立"
+    },
+    {
+        "key": "wind",
+        "value": "n. 风,气味,卷; v. 上发条,缠绕,蜿蜒"
+    },
+    {
+        "key": "right",
+        "value": "a. 对的,正确的; ad. 对; int. 好; n. 权利,右; vt. 纠正; adv.恰恰,正好"
+    },
+    {
+        "key": "ancient",
+        "value": "a. 古代的,古老的; n. 古人"
+    },
+    {
+        "key": "myth",
+        "value": "n. 神话"
+    },
+    {
+        "key": "trouble",
+        "value": "n. 麻烦,困难; v. 困扰,麻烦,烦恼"
+    },
+    {
+        "key": "effect",
+        "value": "n. 结果,影响,效果; v. 招致,引起,完成"
+    },
+    {
+        "key": "medusa",
+        "value": "a. 水母然; n. 水母; n. 美杜莎(古希腊神话中3位蛇发女怪之一)"
+    },
+    {
+        "key": "gorgon",
+        "value": "n. 丑陋女人,蛇发女怪"
+    },
+    {
+        "key": "Pilatus Porter",
+        "value": "皮勒特斯·波特(飞机机名)"
+    },
+    {
+        "key": "land",
+        "value": "n. 陆地,国土,土地; v. 登陆,登岸,卸货"
+    },
+    {
+        "key": "plough",
+        "value": "n. 犁,耕地; v. 用犁耕田,耕犁"
+    },
+    {
+        "key": "lonely",
+        "value": "a. 孤独的,寂寞的,荒凉的"
+    },
+    {
+        "key": "Welsh",
+        "value": "v. 不付赌金而溜掉,逃避"
+    },
+    {
+        "key": "roof",
+        "value": "n. 屋顶; v. 给...覆以屋顶,覆盖"
+    },
+    {
+        "key": "block",
+        "value": "n. 街区,木块,石块; v. 阻塞"
+    },
+    {
+        "key": "flat",
+        "value": "a. 平坦的,单调的,扁平的; ad. 平直地,干脆地; n.[英]公寓"
+    },
+    {
+        "key": "desert",
+        "value": "n. 沙漠; v. 放弃,遗弃"
+    },
+    {
+        "key": "cut",
+        "value": "n. 切口,割伤,降低; v. 切割,减少,刺痛; vbl. 切割,减少,刺痛; [计算机] 剪掉"
+    },
+    {
+        "key": "row",
+        "value": "n. 排,船游,吵闹; v. 划,划船,责骂"
+    },
+    {
+        "key": "kick",
+        "value": "n. 踢,反冲,后座力; v. 踢,反抗,反冲"
+    },
+    {
+        "key": "towards",
+        "value": "ad. 向,朝; prep. 朝,向"
+    },
+    {
+        "key": "nearly",
+        "value": "ad. 几乎,差不多"
+    },
+    {
+        "key": "sight",
+        "value": "n. 景观,视力,眼界; v. 看见,瞄准,观看"
+    },
+    {
+        "key": "company",
+        "value": "n. 公司,友伴,交际"
+    },
+    {
+        "key": "bicycle",
+        "value": "n. 自行车; v. 骑自行车"
+    },
+    {
+        "key": "save",
+        "value": "n. 救援,救球,节约; v. 解救,保存,节省; prep. 除...之外"
+    },
+    {
+        "key": "workshop",
+        "value": "n. 车间,工场,研讨会,讲习班"
+    },
+    {
+        "key": "helper",
+        "value": "n. 帮忙者,助手"
+    },
+    {
+        "key": "employ",
+        "value": "雇用,使用"
+    },
+    {
+        "key": "grandson",
+        "value": "n. 孙子,外孙"
+    },
+    {
+        "key": "temptation",
+        "value": "n. 诱惑,引诱; v. 引,诱"
+    },
+    {
+        "key": "article",
+        "value": "n. 文章,物品,条款,冠词"
+    },
+    {
+        "key": "wrap",
+        "value": "n. 披肩,围巾; v. 覆盖,包围,裹,包; n. 包裹; vt. 包,裹"
+    },
+    {
+        "key": "simply",
+        "value": "ad.&a. 简单地,仅仅"
+    },
+    {
+        "key": "arrest",
+        "value": "n. 逮捕,监禁; v. 拘捕,妨碍,吸引"
+    },
+    {
+        "key": "explain",
+        "value": "解释,说明"
+    },
+    {
+        "key": "coast",
+        "value": "n. 海岸,海滨"
+    },
+    {
+        "key": "storm",
+        "value": "n. 暴风雨; v. 猛攻,捣毁,起风暴; vi. 起风暴,强攻; vt. 猛攻,捣毁"
+    },
+    {
+        "key": "towards",
+        "value": "ad. 向,朝; prep. 朝,向"
+    },
+    {
+        "key": "rock",
+        "value": "n. 岩石,岩礁,巨石; v. 摇摆,摇动"
+    },
+    {
+        "key": "shore",
+        "value": "n. 岸,滨; vt. (up)支撑,支持"
+    },
+    {
+        "key": "light",
+        "value": "n. 光,光亮,灯; a. 轻的,光亮的,容易的; v. 点燃,著火,变亮"
+    },
+    {
+        "key": "ahead",
+        "value": "ad. 向前地,胜于,在...前面"
+    },
+    {
+        "key": "cliff",
+        "value": "n. 悬崖,峭壁"
+    },
+    {
+        "key": "struggle",
+        "value": "n. 竞争,努力,奋斗; v. 努力,奋斗,挣扎"
+    },
+    {
+        "key": "hospital",
+        "value": "n. 医院"
+    },
+    {
+        "key": "most",
+        "value": "n. 最多,最大; a. 大多数的,几乎全部的,最多的; ad. 最,最多,极其"
+    },
+    {
+        "key": "regret",
+        "value": "n. 遗憾,后悔,抱歉; v. 为...感到遗憾,后悔,惋惜"
+    },
+    {
+        "key": "far",
+        "value": "ad.&a. 远的(地); n. 远处"
+    },
+    {
+        "key": "rush",
+        "value": "n. 匆促,冲进,急流; v. 冲进,匆促行事,催"
+    },
+    {
+        "key": "act",
+        "value": "n. 行为,行动,法案; v. 行动,扮演,下判决"
+    },
+    {
+        "key": "straight",
+        "value": "a. 直的,正直的,坦率的; ad. 直接"
+    },
+    {
+        "key": "fright",
+        "value": "n. 惊骇,吃惊"
+    },
+    {
+        "key": "battered",
+        "value": "a. 磨损的"
+    },
+    {
+        "key": "shortly",
+        "value": "ad. 立刻,马上"
+    },
+    {
+        "key": "afterwards",
+        "value": "ad. 以后,后来"
+    },
+    {
+        "key": "strong",
+        "value": "a. 强壮的"
+    },
+    {
+        "key": "swimmer",
+        "value": "游泳者（尤与修饰性形容词连用）"
+    },
+    {
+        "key": "succeed",
+        "value": "v. 成功,继承,继续"
+    },
+    {
+        "key": "train",
+        "value": "n. 火车,行列;长裙拖地部分; v. 训练,教养"
+    },
+    {
+        "key": "anxiously",
+        "value": "ad.焦虑地；急切地"
+    },
+    {
+        "key": "intend",
+        "value": "v. 打算; vt. 想要,打算,计划"
+    },
+    {
+        "key": "solid",
+        "value": "a. 固体的,结实的,可靠的,实心的; n. 固体"
+    },
+    {
+        "key": "hold",
+        "value": "v. 握住,拿着,持有; n. 把握,控制,船舱"
+    },
+    {
+        "key": "government",
+        "value": "n. 政府"
+    },
+    {
+        "key": "immense",
+        "value": "a. 巨大的,广大的"
+    },
+    {
+        "key": "stadium",
+        "value": "n. 体育场"
+    },
+    {
+        "key": "standard",
+        "value": "a. 标准的; n. 标准"
+    },
+    {
+        "key": "capital",
+        "value": "n. 首都,首府,大写字母,资产; a. 首都的,重要的"
+    },
+    {
+        "key": "fantastic",
+        "value": "a. 极好的,难以相信的,奇异的,幻想的"
+    },
+    {
+        "key": "design",
+        "value": "n. 设计,图样; v. 设计,计划"
+    },
+    {
+        "key": "Mediterranean",
+        "value": "a. 地中海(的); n. 地中海"
+    },
+    {
+        "key": "complain",
+        "value": "v. 抱怨,悲叹,控诉"
+    },
+    {
+        "key": "continually",
+        "value": "ad. 不断地,频繁地"
+    },
+    {
+        "key": "bitterly",
+        "value": "ad. 怨恨地,悲痛地,残酷地"
+    },
+    {
+        "key": "sunshine",
+        "value": "n. 阳光"
+    },
+    {
+        "key": "successful",
+        "value": "a. 成功的"
+    },
+    {
+        "key": "following",
+        "value": "n. 下列各项,部下,党羽; a. 下列的,其次的; vbl. 跟随"
+    },
+    {
+        "key": "patient",
+        "value": "a. 有耐心的,能忍耐的; n. 病人"
+    },
+    {
+        "key": "alone",
+        "value": "a. 单独的,仅仅; ad. 单独地"
+    },
+    {
+        "key": "exchange",
+        "value": "n. 交换,汇兑,交易所; v. 交换,交易,兑换"
+    },
+    {
+        "key": "inquire",
+        "value": "v. 询问,问明,查究"
+    },
+    {
+        "key": "certain",
+        "value": "a. 一定的; pron. 某几个,某些; 肯定的,无疑的,必然发生的"
+    },
+    {
+        "key": "caller",
+        "value": "n. 打电话的人"
+    },
+    {
+        "key": "relative",
+        "value": "a. 相对的,比较的; n. 亲戚,亲属"
+    },
+    {
+        "key": "unsmiling",
+        "value": "a．不笑的，严肃的"
+    },
+    {
+        "key": "tight",
+        "value": "a. 紧的; ad. 紧紧地"
+    },
+    {
+        "key": "fix",
+        "value": "v. 使...固定,修理,准备"
+    },
+    {
+        "key": "globe",
+        "value": "n. 地球,地球仪,球体"
+    },
+    {
+        "key": "despair",
+        "value": "n. 绝望,失望"
+    },
+    {
+        "key": "mirror",
+        "value": "n. 镜子; v. 反映,反射"
+    },
+    {
+        "key": "hole",
+        "value": "n. 孔,洞,穴; v. 挖洞,掘坑,进洞"
+    },
+    {
+        "key": "remark",
+        "value": "n. 备注,评论,注意; v. 评论,注意,述及"
+    },
+    {
+        "key": "remind",
+        "value": "v. 提醒; vt. 使想起,提醒"
+    },
+    {
+        "key": "lighthouse",
+        "value": "n. 灯塔"
+    },
+    {
+        "key": "market",
+        "value": "n. 市场,交易,推销地区; v. 在市场上交易,使...上市"
+    },
+    {
+        "key": "snake",
+        "value": "n. 蛇; v. 蜿蜒,弯弯曲曲行进"
+    },
+    {
+        "key": "pipe",
+        "value": "n. 管,烟斗,笛; v. 以管输送,吹哨子,吹笛; 尖声说话 pipe up"
+    },
+    {
+        "key": "tune",
+        "value": "n. 歌曲,旋律,心情; v. 调节,和谐"
+    },
+    {
+        "key": "glimpse",
+        "value": "n. 一瞥,一闪; v. 投以一瞥,闪烁不定"
+    },
+    {
+        "key": "snake",
+        "value": "n. 蛇; v. 蜿蜒,弯弯曲曲行进"
+    },
+    {
+        "key": "movement",
+        "value": "n. 活动,运动"
+    },
+    {
+        "key": "continue",
+        "value": "v. 继续,连续"
+    },
+    {
+        "key": "dance",
+        "value": "n. 舞蹈,舞会; v. 跳舞"
+    },
+    {
+        "key": "obviously",
+        "value": "ad. 显然地"
+    },
+    {
+        "key": "difference",
+        "value": "n. 不同,差异"
+    },
+    {
+        "key": "Indian",
+        "value": "a. 印度的; n. 印第安人,印度人"
+    },
+    {
+        "key": "flight",
+        "value": "n. 飞行,飞机的航程,航班,逃跑"
+    },
+    {
+        "key": "explorer",
+        "value": "n. 探测者"
+    },
+    {
+        "key": "lie",
+        "value": "n. 谎言; v. 躺着,说谎,位于"
+    },
+    {
+        "key": "serious",
+        "value": "a.严肃的,庄重的,严重的,危急的,认真的"
+    },
+    {
+        "key": "point",
+        "value": "n. 点,要点,尖端; v. 指出,指,描准"
+    },
+    {
+        "key": "seem",
+        "value": "v. 像是,似乎"
+    },
+    {
+        "key": "crash",
+        "value": "n. 轰隆声,猛撞,崩溃,破产,垮台; v. 撞碎,猛使...破碎,迫降"
+    },
+    {
+        "key": "sack",
+        "value": "n. 袋子; v. 解雇"
+    },
+    {
+        "key": "clear",
+        "value": "a. 清楚的,明确的,澄清的; v. 澄清,清除障碍,放晴"
+    },
+    {
+        "key": "aircraft",
+        "value": "n. 飞机"
+    },
+    {
+        "key": "endless",
+        "value": "a. 无止境的,没完没了的"
+    },
+    {
+        "key": "plain",
+        "value": "n. 平原,草原; a. 简单的,平坦的,平常的,家常的; a.纯的，不掺杂的"
+    },
+    {
+        "key": "risk",
+        "value": "n. 风险,危险; v. 冒...的危险"
+    },
+    {
+        "key": "picnic",
+        "value": "n. 野餐; v. (去)野餐"
+    },
+    {
+        "key": "edge",
+        "value": "n. 边,边缘,优势; v. 侧身移动,挤进"
+    },
+    {
+        "key": "strap",
+        "value": "n. 绳,皮带; v. 用绳索捆扎"
+    },
+    {
+        "key": "possession",
+        "value": "n. 财产,所有,拥有"
+    },
+    {
+        "key": "breath",
+        "value": "n. 呼吸,气息"
+    },
+    {
+        "key": "contents",
+        "value": "n．(常用复数)内有的物品"
+    },
+    {
+        "key": "mend",
+        "value": "n. 改进,改良,修补处; v. 修改,改进,加快,好转"
+    },
+    {
+        "key": "conscience",
+        "value": "n. 良心"
+    },
+    {
+        "key": "wallet",
+        "value": "n. 皮夹,钱包"
+    },
+    {
+        "key": "savings",
+        "value": "n．存款"
+    },
+    {
+        "key": "villager",
+        "value": "n. 村民"
+    },
+    {
+        "key": "per cent",
+        "value": "n. 百分之..."
+    },
+    {
+        "key": "wooden",
+        "value": "a. 木制的"
+    },
+    {
+        "key": "extremely",
+        "value": "ad. 极其,非常"
+    },
+    {
+        "key": "occur",
+        "value": "v. 发生; vi. 出现,存在,发生"
+    },
+    {
+        "key": "astonish",
+        "value": "v. 使...惊讶"
+    },
+    {
+        "key": "pile",
+        "value": "n. 堆; v. 堆,堆积,拥挤进(入); vt. 堆积"
+    },
+    {
+        "key": "woollen",
+        "value": "n. 毛织品; a. 羊毛制的\\"
+    },
+    {
+        "key": "goods",
+        "value": "n.商品,货物"
+    },
+    {
+        "key": "discover",
+        "value": "v. 发现"
+    },
+    {
+        "key": "admit",
+        "value": "v. 允许进入,承认"
+    },
+    {
+        "key": "confine",
+        "value": "v. 限制,闭居; [计算机] 限制"
+    },
+    {
+        "key": "normal",
+        "value": "a. 正常的,正规的; n. 正常状态"
+    },
+    {
+        "key": "ghost",
+        "value": "n. 鬼,幽灵"
+    },
+    {
+        "key": "haunt",
+        "value": "n. 常到的地方; v. 常到,出没,萦绕于心"
+    },
+    {
+        "key": "block",
+        "value": "n. 街区,木块,石块; v. 阻塞"
+    },
+    {
+        "key": "furniture",
+        "value": "n. 家具"
+    },
+    {
+        "key": "whisky",
+        "value": "n. 威士忌酒"
+    },
+    {
+        "key": "suggest",
+        "value": "v. 建议,提出"
+    },
+    {
+        "key": "shake",
+        "value": "n. 摇动,震动; v. 摇动,动摇"
+    },
+    {
+        "key": "accept",
+        "value": "vt.接受,同意,承担(责任等)"
+    },
+    {
+        "key": "cotton",
+        "value": "a. 棉花(的); n. 棉花"
+    },
+    {
+        "key": "collect",
+        "value": "ad.&a. 对方付费(的); v. 聚集,堆积,收集"
+    },
+    {
+        "key": "collection",
+        "value": "n. 收藏品,收集物"
+    },
+    {
+        "key": "nod",
+        "value": "n. 点头,打盹,摆动; v. 点头,打盹,使...摆动"
+    },
+    {
+        "key": "meanwhile",
+        "value": "ad. 同时; n. 其时,其间"
+    },
+    {
+        "key": "real",
+        "value": "a. 实际的,现实的,真的,真实的"
+    },
+    {
+        "key": "owner",
+        "value": "n. 所有人,物主"
+    },
+    {
+        "key": "spring",
+        "value": "n. 春天,弹簧,跳跃,泉水; a. 春天的; v. 弹起，弹出,跳,裂开"
+    },
+    {
+        "key": "mattress",
+        "value": "n. 床垫"
+    },
+    {
+        "key": "gust",
+        "value": "n. 突然一阵,风味"
+    },
+    {
+        "key": "sweep",
+        "value": "n. 扫除,席卷,范围; v. 扫除,用手指弹,掠过"
+    },
+    {
+        "key": "courtyard",
+        "value": "n. 庭院,院子"
+    },
+    {
+        "key": "smash",
+        "value": "n. 破碎,大败,冲突; a. 非常的,了不起的; v. 粉碎,溃裂,使破产; [羽]扣球"
+    },
+    {
+        "key": "miraculously",
+        "value": "ad.奇迹般地"
+    },
+    {
+        "key": "unhurt",
+        "value": "a．没有受伤的"
+    },
+    {
+        "key": "glance",
+        "value": "n. 一瞥,闪光,一滑; v. 瞥闪,瞥见,反光"
+    },
+    {
+        "key": "promptly",
+        "value": "ad. 敏捷地,迅速地"
+    },
+    {
+        "key": "excursion",
+        "value": "n. 远足,短途旅行"
+    },
+    {
+        "key": "conductor",
+        "value": "n. 售票员 导体"
+    },
+    {
+        "key": "view",
+        "value": "n. 视野,风景,见解; v. 看,考虑"
+    },
+    {
+        "key": "virtue",
+        "value": "n. 美德,优点;贞操"
+    },
+    {
+        "key": "diet",
+        "value": "n. 日常饮食; v. 照规定饮食"
+    },
+    {
+        "key": "forbid",
+        "value": "v. 禁止,不准"
+    },
+    {
+        "key": "hurriedly",
+        "value": "ad. 匆忙地"
+    },
+    {
+        "key": "embarrass",
+        "value": "v. 使...困窘,使...局促不安,阻碍"
+    },
+    {
+        "key": "guiltily",
+        "value": "ad. 内疚地"
+    },
+    {
+        "key": "strict",
+        "value": "a. 严格的,精确的"
+    },
+    {
+        "key": "reward",
+        "value": "n. 报酬,酬谢,赏金; v. 奖赏,酬谢"
+    },
+    {
+        "key": "occasionally",
+        "value": "ad. 偶尔地"
+    },
+    {
+        "key": "inch",
+        "value": "n. 寸,身高; v. 慢慢前进,慢慢移动"
+    },
+    {
+        "key": "space",
+        "value": "n. 位置,空间,距离; v. 隔开,分隔"
+    },
+    {
+        "key": "actually",
+        "value": "ad. 实际上"
+    },
+    {
+        "key": "fireman",
+        "value": "n. 消防队员"
+    },
+    {
+        "key": "cause",
+        "value": "vt.引起; n.原因"
+    },
+    {
+        "key": "examine",
+        "value": "v. 检查,调查,考试; [计算机] 检测"
+    },
+    {
+        "key": "accidentally",
+        "value": "ad. 偶然地,意外地"
+    },
+    {
+        "key": "remains",
+        "value": "n. 剩余物; 残余"
+    },
+    {
+        "key": "wire",
+        "value": "n. 电线,电报,金属丝; v. 给⋯装电线,发电报"
+    },
+    {
+        "key": "volt",
+        "value": "n. 伏特"
+    },
+    {
+        "key": "power line",
+        "value": "电力线"
+    },
+    {
+        "key": "solve",
+        "value": "v. 解答(难题),解决; vt. 解答,解决"
+    },
+    {
+        "key": "mystery",
+        "value": "n. 神秘,神秘的事物"
+    },
+    {
+        "key": "snatch",
+        "value": "n. 抢夺,碎片,一阵; v. 夺取,想抢走,侥幸获得"
+    },
+    {
+        "key": "spark",
+        "value": "n. 火花,朝气; v. 闪烁,闪光,使拿出朝气"
+    },
+    {
+        "key": "finger",
+        "value": "n. 手指,指针"
+    },
+    {
+        "key": "pie",
+        "value": "n.饼图 n.派,馅饼,杂乱,喜鹊,爱说话的人 vt.弄乱"
+    },
+    {
+        "key": "mix",
+        "value": "n. 混合物,混乱; v. 混合,弄混,与; [计算机] 混合"
+    },
+    {
+        "key": "pastry",
+        "value": "n. 面粉糕饼,馅饼皮"
+    },
+    {
+        "key": "annoying",
+        "value": "a. 恼人的,讨厌的"
+    },
+    {
+        "key": "receiver",
+        "value": "n. 接收器,收款员,接待者"
+    },
+    {
+        "key": "dismay",
+        "value": "n. 沮丧; v. 使...灰心,使...害怕"
+    },
+    {
+        "key": "recognize",
+        "value": "v. 认出,认可,承认"
+    },
+    {
+        "key": "persuade",
+        "value": "a. 空闲的,有闲的; v. 说服; vt. 劝说,说服"
+    },
+    {
+        "key": "mess",
+        "value": "n. 乱七八糟,用膳,不顺遂之事; v. 将...弄糟,使...紊乱,聚餐"
+    },
+    {
+        "key": "doorknob",
+        "value": "n. 门把手"
+    },
+    {
+        "key": "sign",
+        "value": "n. 符号,正负号,手势,迹象,招牌; v. 签，做手势，做标记"
+    },
+    {
+        "key": "register",
+        "value": "v. 记录,登记,注册,挂号; n. 暂存器,记录,登记簿"
+    },
+    {
+        "key": "mine",
+        "value": "n. 地雷,矿,矿山; pron. 我的; v. 采掘,开矿"
+    },
+    {
+        "key": "treasure",
+        "value": "n. 宝物,财富; v. 珍爱,重视,储藏"
+    },
+    {
+        "key": "revealer",
+        "value": "n．探测器"
+    },
+    {
+        "key": "invent",
+        "value": "v. 发明; vt. 发明,创造"
+    },
+    {
+        "key": "detect",
+        "value": "v. 发现; [计算机] 检测"
+    },
+    {
+        "key": "bury",
+        "value": "v. 埋葬"
+    },
+    {
+        "key": "cave",
+        "value": "n. 山洞; v. (使)凹陷; vi. (in)塌落,倒坍"
+    },
+    {
+        "key": "seashore",
+        "value": "n. 海岸,海滨"
+    },
+    {
+        "key": "pirate",
+        "value": "n. 海盗,盗印者,侵犯专利权者; v. 盗印,掠夺,翻印"
+    },
+    {
+        "key": "arm",
+        "value": "n. 手臂,袖子; v. 武装,装备"
+    },
+    {
+        "key": "soil",
+        "value": "n. 土地,土壤; v. 弄脏,(使)变脏; vi. 变脏; vt. 弄脏"
+    },
+    {
+        "key": "entrance",
+        "value": "n. 入口; v. 使出神,使入迷; vt. 使出神"
+    },
+    {
+        "key": "finally",
+        "value": "ad. 最后,最终"
+    },
+    {
+        "key": "worthless",
+        "value": "a. 无价值的,无用的"
+    },
+    {
+        "key": "thoroughly",
+        "value": "这工作做得不太彻底. He's a thoroughly nice person. 他是个大好人. I'm thoroughly fed up with you. 我觉得你烦透了."
+    },
+    {
+        "key": "trunk",
+        "value": "n. 树干,躯干,(汽车后部)行李箱,象鼻"
+    },
+    {
+        "key": "confident",
+        "value": "a. 确信的,自信的"
+    },
+    {
+        "key": "value",
+        "value": "n. 价值,重要性,价格; vt. 评价,估价,重视"
+    },
+    {
+        "key": "excitement",
+        "value": "n. 激动,兴奋"
+    },
+    {
+        "key": "handsome",
+        "value": "a. 英俊的"
+    },
+    {
+        "key": "Rolls-Royce",
+        "value": "罗尔斯—罗伊斯"
+    },
+    {
+        "key": "benz",
+        "value": "n. 奔驰"
+    },
+    {
+        "key": "wheel",
+        "value": "n. 轮子,周期; v. 旋转,装以车轮,转动"
+    },
+    {
+        "key": "explosion",
+        "value": "n. 爆炸,爆发"
+    },
+    {
+        "key": "course",
+        "value": "n. 课程,讲座,过程,路线,一道(菜)"
+    },
+    {
+        "key": "rival",
+        "value": "n. 对手,竞争者; a. 竞争的; vt. 与⋯相匹敌,比得上"
+    },
+    {
+        "key": "speed",
+        "value": "n. 速度,迅速,超速; v. 加速,超速,推进"
+    },
+    {
+        "key": "downhill",
+        "value": "a. 向坡下(的),走下坡路的(地); ad. 下坡,向下"
+    },
+    {
+        "key": "jeans",
+        "value": "n. 牛仔裤"
+    },
+    {
+        "key": "hesitate",
+        "value": "v. 犹豫,迟疑,踌躇"
+    },
+    {
+        "key": "serve",
+        "value": "v. 可作...用,服务,对待"
+    },
+    {
+        "key": "scornfully",
+        "value": "ad. 轻蔑地"
+    },
+    {
+        "key": "punish",
+        "value": "惩罚,处罚"
+    },
+    {
+        "key": "fur",
+        "value": "n. 毛皮,皮,皮子"
+    },
+    {
+        "key": "eager",
+        "value": "a. 渴望的,热切的"
+    },
+    {
+        "key": "disguise",
+        "value": "n. 假面目,假装; v. 假装"
+    },
+    {
+        "key": "tiny",
+        "value": "a. 极小的,微小的"
+    },
+    {
+        "key": "possess",
+        "value": "v. 持有,克制,为...著迷"
+    },
+    {
+        "key": "cursed",
+        "value": "a. 该诅咒的(坏透的); v. 诅咒"
+    },
+    {
+        "key": "increase",
+        "value": "n. 增加,增强,提高; v. 增加,提高"
+    },
+    {
+        "key": "plant",
+        "value": "n. 植物; v. 种植; n. 工厂"
+    },
+    {
+        "key": "church",
+        "value": "n. 教堂"
+    },
+    {
+        "key": "evil",
+        "value": "a. 邪恶的,坏的; n. 邪恶,罪恶"
+    },
+    {
+        "key": "reputation",
+        "value": "n. 名誉,名声"
+    },
+    {
+        "key": "claim",
+        "value": "n. 要求,要求权; v. 要求,请求,主张,声称,说明,断言"
+    },
+    {
+        "key": "victim",
+        "value": "n. 受害者"
+    },
+    {
+        "key": "vicar",
+        "value": "n. 教区牧师,教堂牧师,传教牧师"
+    },
+    {
+        "key": "source",
+        "value": "n. 来源"
+    },
+    {
+        "key": "income",
+        "value": "n. 收入,所得"
+    },
+    {
+        "key": "trunk",
+        "value": "n. 树干,躯干,(汽车后部)行李箱,象鼻"
+    },
+    {
+        "key": "press",
+        "value": "n. 新闻界,压力; v. 按,压"
+    },
+    {
+        "key": "paw",
+        "value": "n. 手掌,手爪; v. 以蹄扒地,笨拙地使用,费力地前进"
+    },
+    {
+        "key": "latch",
+        "value": "n. 门闩; v. 上闩"
+    },
+    {
+        "key": "expert",
+        "value": "a. 熟练的,内行的; n. 专家,能手"
+    },
+    {
+        "key": "develop",
+        "value": "v. 发展,发达,进步,开发,冲洗照片"
+    },
+    {
+        "key": "habit",
+        "value": "n. 习惯"
+    },
+    {
+        "key": "remove",
+        "value": "n. 距离; v. 除去,迁移,开除"
+    },
+    {
+        "key": "fair",
+        "value": "a. 公平的,晴朗的,美丽的; n. 展览会,市集; adj.(皮肤，毛发等）浅色的；白皙的"
+    },
+    {
+        "key": "fortune-teller",
+        "value": "n. 算命者"
+    },
+    {
+        "key": "crystal",
+        "value": "a. 清澈透明的,晶体的; n. 水晶"
+    },
+    {
+        "key": "relation",
+        "value": "n. 关系,家人,亲戚,叙述,陈述"
+    },
+    {
+        "key": "impatiently",
+        "value": "ad.不耐烦地"
+    },
+    {
+        "key": "telescope",
+        "value": "n. 望远镜; v. 缩短,压缩"
+    },
+    {
+        "key": "launch",
+        "value": "n.&v. 下水,发射,开始,升天,汽艇"
+    },
+    {
+        "key": "space",
+        "value": "n. 位置,空间,距离; v. 隔开,分隔"
+    },
+    {
+        "key": "nasa",
+        "value": "n. 美国国家航空和航天管理局"
+    },
+    {
+        "key": "billion",
+        "value": "num.&n. 十亿"
+    },
+    {
+        "key": "faulty",
+        "value": "a. 有错误的,有缺点的"
+    },
+    {
+        "key": "astronaut",
+        "value": "n. 宇航员"
+    },
+    {
+        "key": "shuttle",
+        "value": "n. 穿梭,往返移动之物; v. 使...穿梭移动"
+    },
+    {
+        "key": "endeavour",
+        "value": "n. 奋力号(航船的名字)"
+    },
+    {
+        "key": "robot-arm",
+        "value": "n．机器手"
+    },
+    {
+        "key": "grab",
+        "value": "n. 抓握,接应,掠夺; v. 抓取,抢去"
+    },
+    {
+        "key": "atmosphere",
+        "value": "n. 大气,气氛"
+    },
+    {
+        "key": "distant",
+        "value": "a. 遥远的,远的"
+    },
+    {
+        "key": "galaxy",
+        "value": "n. 银河,一群显赫之人"
+    },
+    {
+        "key": "universe",
+        "value": "n. 宇宙"
+    },
+    {
+        "key": "eagle eye",
+        "value": "极好的视力."
+    },
+    {
+        "key": "smoke",
+        "value": "n. 烟,无常的事物,抽烟; v. 吸烟,以烟熏,冒烟"
+    },
+    {
+        "key": "desolate",
+        "value": "a. 荒凉的"
+    },
+    {
+        "key": "threaten",
+        "value": "vi. 构成威胁; vt. 威胁"
+    },
+    {
+        "key": "surrounding",
+        "value": "a. 周围的; n. 环境,周围的事物"
+    },
+    {
+        "key": "destruction",
+        "value": "n. 破坏,毁灭"
+    },
+    {
+        "key": "flood",
+        "value": "n. 洪水,水灾; v. 淹没,溢出; vi. 大量涌到,泛滥; vt. 灌溉,淹没"
+    },
+    {
+        "key": "authority",
+        "value": "n. 权力,权威,当局"
+    },
+    {
+        "key": "grass-seed",
+        "value": "n．草籽"
+    },
+    {
+        "key": "spray",
+        "value": "n. 水沫,喷雾器; v. 喷雾,扫射,喷射"
+    },
+    {
+        "key": "quantity",
+        "value": "n. 量,数量,大量"
+    },
+    {
+        "key": "root",
+        "value": "n. 根,根源; v. 生根,扎根"
+    },
+    {
+        "key": "century",
+        "value": "n. 世纪"
+    },
+    {
+        "key": "patch",
+        "value": "n. 片,补绽,碎片; v. 补缀,掩饰,平息"
+    },
+    {
+        "key": "blacken",
+        "value": "v. 使...黑,变黑,损坏"
+    },
+    {
+        "key": "admire",
+        "value": "v. 钦佩,羡慕,赞赏"
+    },
+    {
+        "key": "close",
+        "value": "n. 结束,完结; a. 靠近的,亲近的; v. 关,结束,靠近"
+    },
+    {
+        "key": "wedding",
+        "value": "n. 婚礼"
+    },
+    {
+        "key": "reception",
+        "value": "n. 接待,欢迎,接受"
+    },
+    {
+        "key": "sort",
+        "value": "n. 种类,样子,态度; v. 分类,整理,排序; n.[计算机] DOS命令 : 在字符型文件中进行数据排序, 或者将DOS命令的输出进行排序"
+    },
+    {
+        "key": "port",
+        "value": "n. 港口"
+    },
+    {
+        "key": "ventilate",
+        "value": "v. 使...空气流通"
+    },
+    {
+        "key": "chimney",
+        "value": "n. 烟囱"
+    },
+    {
+        "key": "sea level",
+        "value": "海平面"
+    },
+    {
+        "key": "double",
+        "value": "n. 两倍; a. 两倍的,双重的; v. 加倍的,快步走,加倍努力"
+    },
+    {
+        "key": "ventilation",
+        "value": "n. 通风"
+    },
+    {
+        "key": "fear",
+        "value": "n. 恐怖,害怕,担心; v. 害怕,恐惧,敬畏"
+    },
+    {
+        "key": "invasion",
+        "value": "n. 侵入,侵略"
+    },
+    {
+        "key": "officially",
+        "value": "ad. 作为公务员,职务上,官方地，正式地"
+    },
+    {
+        "key": "connect",
+        "value": "v. 连接"
+    },
+    {
+        "key": "European",
+        "value": "a. 欧洲的; n. 欧洲人"
+    },
+    {
+        "key": "continent",
+        "value": "n. 大陆,洲"
+    },
+    {
+        "key": "Christmas",
+        "value": "n. 圣诞节"
+    },
+    {
+        "key": "circus",
+        "value": "n. 马戏团"
+    },
+    {
+        "key": "present",
+        "value": "n. 礼物,现在; a. 现在的,出席的,当面的; v. 赠送,提出,呈现"
+    },
+    {
+        "key": "accompany",
+        "value": "v. 陪伴,带有"
+    },
+    {
+        "key": "approach",
+        "value": "n. 途径,方法; v. 靠近,接近,动手处理"
+    },
+    {
+        "key": "ought",
+        "value": "conj. 应该,大概"
+    },
+    {
+        "key": "weigh",
+        "value": "v. 秤重量,衡量,重压"
+    },
+    {
+        "key": "fortunate",
+        "value": "a. 幸运的,侥幸的"
+    },
+    {
+        "key": "bomber",
+        "value": "n. 轰炸机"
+    },
+    {
+        "key": "remote",
+        "value": "a. 偏僻的,遥远的,远程的"
+    },
+    {
+        "key": "pacific",
+        "value": "a. 太平洋的; n. 太平洋"
+    },
+    {
+        "key": "damage",
+        "value": "n. (pl.)赔偿金,损坏,毁坏; v. 损害,毁坏"
+    },
+    {
+        "key": "wreck",
+        "value": "n. 失事,残骸,破坏,健康受损的人; vt. 破坏,造成...失事"
+    },
+    {
+        "key": "rediscover",
+        "value": "v.重新发现"
+    },
+    {
+        "key": "aerial",
+        "value": "a. 空中的,航空的,空想的"
+    },
+    {
+        "key": "survey",
+        "value": "n. 纵览,视察,测量; v. 审视,视察,通盘考虑,调查"
+    },
+    {
+        "key": "rescue",
+        "value": "n. 援救,解救,营救; v. 援救,救出,营救"
+    },
+    {
+        "key": "package",
+        "value": "n. 包裹,套装软件,包; v. 包装"
+    },
+    {
+        "key": "enthusiast",
+        "value": "n. 热心人"
+    },
+    {
+        "key": "restore",
+        "value": "v. 回复,恢复,归还"
+    },
+    {
+        "key": "imagine",
+        "value": "v. 想像,幻想,猜测"
+    },
+    {
+        "key": "packing",
+        "value": "n. 包装"
+    },
+    {
+        "key": "colony",
+        "value": "n. 殖民地"
+    },
+    {
+        "key": "bee",
+        "value": "n. 蜜蜂"
+    },
+    {
+        "key": "hive",
+        "value": "n. 蜂房,蜂箱"
+    },
+    {
+        "key": "preserve",
+        "value": "v. 保护,保持,维持,防腐,做蜜饯"
+    },
+    {
+        "key": "beeswax",
+        "value": "n. 蜂蜡"
+    },
+    {
+        "key": "active",
+        "value": "a. 积极的,主动的"
+    },
+    {
+        "key": "Kivu",
+        "value": "n. 基伍湖"
+    },
+    {
+        "key": "Congo",
+        "value": "n. (the〜)刚果"
+    },
+    {
+        "key": "Kituro",
+        "value": "n．基图罗"
+    },
+    {
+        "key": "erupt",
+        "value": "v. 爆发"
+    },
+    {
+        "key": "violently",
+        "value": "攻击、 反对、 反应十分强烈 The door slammed violently. 门砰的一声关上了. He fell violently in love with her. 他深深地爱上了她."
+    },
+    {
+        "key": "manage",
+        "value": "v. 处理,维持,达成"
+    },
+    {
+        "key": "brilliant",
+        "value": "a. 灿烂的,有才气的,杰出的"
+    },
+    {
+        "key": "liquid",
+        "value": "a. 液体的,液态的; n. 液体"
+    },
+    {
+        "key": "escape",
+        "value": "n. 逃亡,避难设备; v. 逃脱,避开,溜走; [计算机] 换码"
+    },
+    {
+        "key": "alive",
+        "value": "a. 活着的"
+    },
+    {
+        "key": "avoid",
+        "value": "v. 避免; vt. 避免,逃避"
+    },
+    {
+        "key": "insist",
+        "value": "v. 坚持,强调"
+    },
+    {
+        "key": "instruct",
+        "value": "v. 教,命令,指导; [计算机] 指示"
+    },
+    {
+        "key": "acquire",
+        "value": "v. 获得,取得,学到"
+    },
+    {
+        "key": "confidence",
+        "value": "a. 骗得信任的; n. 信任,信心"
+    },
+    {
+        "key": "examiner",
+        "value": "n. 主考者"
+    },
+    {
+        "key": "suppose",
+        "value": "v. 推想,假设,以为,认为; 应该,获准(be suppose to),让(虚拟语气)"
+    },
+    {
+        "key": "tap",
+        "value": "n. 轻打,水龙头; v. 轻打,轻敲,装上嘴子"
+    },
+    {
+        "key": "react",
+        "value": "v. 反应,起作用,反动"
+    },
+    {
+        "key": "brake",
+        "value": "n. 煞车; v. 煞车"
+    },
+    {
+        "key": "pedal",
+        "value": "n. 踏板; a. 脚的,踏脚的; v. 用脚踏动,踩踏板"
+    },
+    {
+        "key": "mournful",
+        "value": "a. 悲恸的,悲哀的,令人惋惜的"
+    },
+    {
+        "key": "drunk",
+        "value": "a. 喝醉了的; vbl. 喝,喝酒"
+    },
+    {
+        "key": "wander",
+        "value": "v. 游荡"
+    },
+    {
+        "key": "ring",
+        "value": "n. 环,戒指,铃声; v. 响,鸣,回响"
+    },
+    {
+        "key": "unaware",
+        "value": "a. 没有发觉的,不知道的"
+    },
+    {
+        "key": "bull",
+        "value": "a. 大型(的),公牛(似的),雄性(的); n. 公牛"
+    },
+    {
+        "key": "matador",
+        "value": "n. 斗牛士"
+    },
+    {
+        "key": "remark",
+        "value": "n. 备注,评论,注意; v. 评论,注意,述及"
+    },
+    {
+        "key": "apparently",
+        "value": "a. 显然,似乎; ad. 显然"
+    },
+    {
+        "key": "sensitive",
+        "value": "a. 敏感的,仪器灵敏的,易受伤害的,感光的"
+    },
+    {
+        "key": "criticism",
+        "value": "n. 批评,评论"
+    },
+    {
+        "key": "charge",
+        "value": "n. 电荷,指控,费用; v. 控诉,加罪于,要价,赊帐,充电,管理"
+    },
+    {
+        "key": "clumsily",
+        "value": "ad. 笨拙地"
+    },
+    {
+        "key": "bow",
+        "value": "n. 弓,船头,鞠躬; v. 鞠躬,弯腰"
+    },
+    {
+        "key": "safety",
+        "value": "a. 保险的; n. 安全"
+    },
+    {
+        "key": "sympathetically",
+        "value": "ad. 同情地"
+    },
+    {
+        "key": "erect",
+        "value": "a. 直立的,竖立的,笔直的; v. 竖立,使...直立,建筑"
+    },
+    {
+        "key": "accurate",
+        "value": "a. 准确的,精确的"
+    },
+    {
+        "key": "official",
+        "value": "a. 官方的,正式的; n. 官员"
+    },
+    {
+        "key": "Greenwich",
+        "value": "n. 格林威治"
+    },
+    {
+        "key": "observatory",
+        "value": "n. 天文台,气象台,了望台"
+    },
+    {
+        "key": "check",
+        "value": "n. 检查,支票,阻止物; v. 检查,阻止,核对"
+    },
+    {
+        "key": "microphone",
+        "value": "n. 麦克风,扩音器"
+    },
+    {
+        "key": "tower",
+        "value": "n. 塔,高楼,堡垒; v. 高耸,超越"
+    },
+    {
+        "key": "per",
+        "value": "prep. 每,每一"
+    },
+    {
+        "key": "Utah",
+        "value": "n. 美国犹他州"
+    },
+    {
+        "key": "horsepower",
+        "value": "n. 马力"
+    },
+    {
+        "key": "burst",
+        "value": "n. 破裂,阵,爆发; v. 爆裂,突发"
+    },
+    {
+        "key": "average",
+        "value": "n. 平均,平均数; a. 一般的,通常的,平均的; v. 平均"
+    },
+    {
+        "key": "footstep",
+        "value": "n. 脚步(声),足迹"
+    },
+    {
+        "key": "truant",
+        "value": "n. 懒惰鬼,旷课者; a. 偷懒的,旷课的,游荡的; v. 偷懒,旷课"
+    },
+    {
+        "key": "unimaginative",
+        "value": "a.缺乏想象力的"
+    },
+    {
+        "key": "shame",
+        "value": "n. 羞愧,遗憾的事; v. 使羞愧"
+    },
+    {
+        "key": "hitchhike",
+        "value": "v. 搭便车"
+    },
+    {
+        "key": "meantime",
+        "value": "ad. 与此同时; n. 其时,其间"
+    },
+    {
+        "key": "lorry",
+        "value": "n. 卡车"
+    },
+    {
+        "key": "border",
+        "value": "n. 边缘; v. 作...之疆界,加边"
+    },
+    {
+        "key": "evade",
+        "value": "v. 规避,逃避,躲避"
+    },
+    {
+        "key": "precaution",
+        "value": "n. 预防,留心,警戒"
+    },
+    {
+        "key": "fan",
+        "value": "n. 风扇,迷,狂热者; v. 煽,煽动,刺激"
+    },
+    {
+        "key": "shady",
+        "value": "a. 荫凉的,成荫的,暗的"
+    },
+    {
+        "key": "sheriff",
+        "value": "n. 郡治安官,州长"
+    },
+    {
+        "key": "notice",
+        "value": "n. 注意,布告,通知; v. 注意,通知,留心"
+    },
+    {
+        "key": "sneer",
+        "value": "n. 冷笑,嘲笑; v. 嘲笑,冷笑"
+    },
+    {
+        "key": "signal",
+        "value": "n. 信号,导火线,动机; v. 向...作信号"
+    },
+    {
+        "key": "stamp",
+        "value": "n. 印,邮票,打印器; v. 捺印,顿足,贴上邮票"
+    },
+    {
+        "key": "helicopter",
+        "value": "n. 直升飞机"
+    },
+    {
+        "key": "scene",
+        "value": "n. 场,景,情景"
+    },
+    {
+        "key": "survivor",
+        "value": "n. 幸存者"
+    },
+    {
+        "key": "bulletin",
+        "value": "n. 公报; vt. 发表"
+    },
+    {
+        "key": "announcer",
+        "value": "n. 广播员,告知者"
+    },
+    {
+        "key": "macaroni",
+        "value": "n. 通心粉"
+    },
+    {
+        "key": "leading",
+        "value": "n. 领导,疏导,铅板; a. 领导的,主要的,在前的; vbl. 领导,引领,以铅接合; [计算机] 行间空白"
+    },
+    {
+        "key": "grower",
+        "value": "n. 栽培者,生长物"
+    },
+    {
+        "key": "splendid",
+        "value": "a. 极好的"
+    },
+    {
+        "key": "stalk",
+        "value": "n. 茎,追踪,高视阔步; v. 悄悄靠近,蔓延,高视阔步"
+    },
+    {
+        "key": "gather",
+        "value": "n. 集合,聚集; v. 聚集,集合,渐增; vt. 使聚集，推断"
+    },
+    {
+        "key": "thresh",
+        "value": "v. 打(庄稼); vt. 打谷"
+    },
+    {
+        "key": "process",
+        "value": "n. 过程; v. 加工; vi. 列队前进; vt. 加工,处理"
+    },
+    {
+        "key": "signor",
+        "value": "n. (意大利语)先生"
+    },
+    {
+        "key": "present",
+        "value": "n. 礼物,现在; a. 现在的,出席的,当面的; v. 赠送,提出,呈现"
+    },
+    {
+        "key": "champion",
+        "value": "n. 冠军,拥护者; v. 保卫,拥护"
+    },
+    {
+        "key": "studio",
+        "value": "n. 工作场所,画室; n. 照相室，制片厂．"
+    },
+    {
+        "key": "Egyptian",
+        "value": "a. 埃及的; n. 埃及人"
+    },
+    {
+        "key": "temple",
+        "value": "n. 庙宇,寺院; n.太阳穴"
+    },
+    {
+        "key": "mark",
+        "value": "n. 标志,分数,马克; v. 做标记于,留意,打分数"
+    },
+    {
+        "key": "plate",
+        "value": "n. 碟,盘,金属板; v. 镀金,电镀"
+    },
+    {
+        "key": "disease",
+        "value": "n. 疾病"
+    },
+    {
+        "key": "last",
+        "value": "a. 最后的,末尾的,最近的,晚了，迟到了; ; v. 持续,支持,维持; ad. 最后,后来"
+    },
+    {
+        "key": "prove",
+        "value": "v. 证明,查验,显示"
+    },
+    {
+        "key": "resin",
+        "value": "n. 树脂(松香,树脂状沉淀物,树脂制品); vt 涂树脂(有树脂处理)"
+    },
+    {
+        "key": "skin",
+        "value": "n. 皮肤,外皮; v. 剥皮,长皮"
+    },
+    {
+        "key": "section",
+        "value": "n. 部分,章节,部门,路段; 断面,剖面,截面; v. 划分 [同]divide"
+    },
+    {
+        "key": "figure",
+        "value": "n. 图形,数字,形状; v. 演算,认为,领会到"
+    },
+    {
+        "key": "normally",
+        "value": "ad. 正常地"
+    },
+    {
+        "key": "survive",
+        "value": "v. 生存,生还"
+    },
+    {
+        "key": "calm",
+        "value": "n. 平稳,风平浪静; a. 平静的,冷静的; v. 平静下来,镇静"
+    },
+    {
+        "key": "nerve",
+        "value": "n. 神经(生物)，精神,勇气,叶脉; v. 鼓起勇气"
+    },
+    {
+        "key": "concentration",
+        "value": "n. 集中,专心,浓度"
+    },
+    {
+        "key": "suffer",
+        "value": "v. 遭受,经验,忍受"
+    },
+    {
+        "key": "symptom",
+        "value": "n. 症状,征兆"
+    },
+    {
+        "key": "temper",
+        "value": "n. 脾气,调剂,趋向; v. 锻练,调剂,缓和"
+    },
+    {
+        "key": "appetite",
+        "value": "n. 爱好,嗜好,食欲,胃口,欲望"
+    },
+    {
+        "key": "produce",
+        "value": "n. 产品,农产品; v. 产生,生产,提出"
+    },
+    {
+        "key": "urge",
+        "value": "n. 冲动; v. 驱策,力劝,力陈"
+    },
+    {
+        "key": "satisfaction",
+        "value": "n. 满意"
+    },
+    {
+        "key": "delighted",
+        "value": "a. 高兴的,快乐的; v. 快乐,喜悦"
+    },
+    {
+        "key": "flight attendant",
+        "value": "空中乘务员"
+    },
+    {
+        "key": "frightened",
+        "value": "a. 受惊的, 受恐吓的"
+    },
+    {
+        "key": "curious",
+        "value": "a. 好奇的,古怪的"
+    },
+    {
+        "key": "bomb",
+        "value": "n. 炸弹; v. 轰炸; vt. 投弹,轰炸"
+    },
+    {
+        "key": "plant",
+        "value": "n. 植物; v. 种植; n. 工厂"
+    },
+    {
+        "key": "extraordinary",
+        "value": "a. 非常的,特别的"
+    },
+    {
+        "key": "exhibition",
+        "value": "n. 展览,展览会"
+    },
+    {
+        "key": "iron",
+        "value": "a. 刚强的; n. 铁,熨斗; v. 熨,烫,烫衣服; vt. 熨烫"
+    },
+    {
+        "key": "various",
+        "value": "a. 各种各样的"
+    },
+    {
+        "key": "machinery",
+        "value": "n. (总称)机器,机械"
+    },
+    {
+        "key": "display",
+        "value": "n. 显示,陈列,炫耀; v. 显示,表现,夸示"
+    },
+    {
+        "key": "steam",
+        "value": "n. 蒸气,精力; a. 蒸气的; v. 蒸发"
+    },
+    {
+        "key": "profit",
+        "value": "n. 利润,赢利,利益; v. 有益,获利,赚钱"
+    },
+    {
+        "key": "college",
+        "value": "n. 学院"
+    },
+    {
+        "key": "bush",
+        "value": "n. 灌木,灌木丛"
+    },
+    {
+        "key": "rapidly",
+        "value": "ad. 迅速地"
+    },
+    {
+        "key": "uniform",
+        "value": "a. 一致的,统一的; n. 制服"
+    },
+    {
+        "key": "rifle",
+        "value": "n. 步枪; v. 洗劫,抢劫"
+    },
+    {
+        "key": "shoulder",
+        "value": "n. 肩膀; v. 肩负,承担; vt. 承担,肩负"
+    },
+    {
+        "key": "March",
+        "value": "n. 三月; vi. 行军,进军"
+    },
+    {
+        "key": "boldly",
+        "value": "ad. 大胆地,显眼地"
+    },
+    {
+        "key": "blaze",
+        "value": "n. 火焰,烈火; v. 燃烧"
+    },
+    {
+        "key": "salute",
+        "value": "v. 行礼,致意,问候"
+    },
+    {
+        "key": "elderly",
+        "value": "a. 过了中年的,稍老的"
+    },
+    {
+        "key": "grey",
+        "value": "a. 灰色的; n. 灰色(的); v. 变成灰色 [=gray]; vi. 变成灰色"
+    },
+    {
+        "key": "sharp",
+        "value": "a. 刺耳的,锋利的,急剧的; ad. [时刻]正,准; 夏普(财富500强公司之一，总部所在地日本,主要经营电子电气)"
+    },
+    {
+        "key": "blow",
+        "value": "n. 吹,打击,殴打; v. 吹,风吹"
+    },
+    {
+        "key": "sailor",
+        "value": "n. 海员,水手"
+    },
+    {
+        "key": "sight",
+        "value": "n. 景观,视力,眼界; v. 看见,瞄准,观看"
+    },
+    {
+        "key": "creature",
+        "value": "n. 生物,动物,人"
+    },
+    {
+        "key": "peculiar",
+        "value": "a. 奇怪的,古怪的,特殊的,独特的"
+    },
+    {
+        "key": "shining",
+        "value": "a. 光亮的,华丽的; vbl. 闪烁,发亮"
+    },
+    {
+        "key": "oarfish",
+        "value": "n. 桨鱼"
+    },
+    {
+        "key": "former",
+        "value": "a. 以前的,在前的; pron.&n. 前者"
+    },
+    {
+        "key": "defeat",
+        "value": "n. 败北,失败; v. 击败"
+    },
+    {
+        "key": "fanatical",
+        "value": "a. 狂热的"
+    },
+    {
+        "key": "opponent",
+        "value": "n. 对手,敌手,反对者; a. 敌对的,反对的"
+    },
+    {
+        "key": "radical",
+        "value": "n. 急进份子,原子团; a. 急进的,根本的,激进的,基本的,彻底的"
+    },
+    {
+        "key": "progressive",
+        "value": "a. 进步的,前进的; n. 进步人士"
+    },
+    {
+        "key": "ex- prefix.",
+        "value": "(前缀，用于名词前)前⋯"
+    },
+    {
+        "key": "suspicious",
+        "value": "a. 怀疑的"
+    },
+    {
+        "key": "busman",
+        "value": "n. 公共汽车司机"
+    },
+    {
+        "key": "state",
+        "value": "n. 州,国,情形; a. 国家的,正式的; v. 说,陈述,声明,规定"
+    },
+    {
+        "key": "agreement",
+        "value": "n. 同意,一致,协议"
+    },
+    {
+        "key": "relieve",
+        "value": "v. 减轻,救济,解除"
+    },
+    {
+        "key": "pressure",
+        "value": "n. 压力,压强,压迫"
+    },
+    {
+        "key": "extent",
+        "value": "n. 广度,宽度,长度,大小,范围,范围,程度; n. [律]<英>扣押, <美>临时所有权令"
+    },
+    {
+        "key": "volunteer",
+        "value": "n. 志愿者; a. 志愿的; v. 志愿"
+    },
+    {
+        "key": "gratitude",
+        "value": "n. 感谢的心情"
+    },
+    {
+        "key": "press",
+        "value": "n. 新闻界,压力; v. 按,压"
+    },
+    {
+        "key": "object",
+        "value": "n. 物,物体,目标,宾语; v. 反对"
+    },
+    {
+        "key": "headmaster",
+        "value": "n. 校长"
+    },
+    {
+        "key": "contribute",
+        "value": "v. 有助于,捐助,投稿,贡献"
+    },
+    {
+        "key": "gift",
+        "value": "n. 礼物,天赋; vt. 给予"
+    },
+    {
+        "key": "album",
+        "value": "n. 集邮本,照相簿,唱片簿"
+    },
+    {
+        "key": "patience",
+        "value": "n. 耐心"
+    },
+    {
+        "key": "encouragement",
+        "value": "n. 鼓励"
+    },
+    {
+        "key": "farewell",
+        "value": "a. 告别的; int. 再会,别了; n. 告别"
+    },
+    {
+        "key": "honour",
+        "value": "n. 光荣; vt 尊敬"
+    },
+    {
+        "key": "coincidence",
+        "value": "a. 同时发生的; n. 巧合"
+    },
+    {
+        "key": "total",
+        "value": "a. 全体的,总的,全然的; v. 总计,共计"
+    },
+    {
+        "key": "devote",
+        "value": "v. 投入于,献身"
+    },
+    {
+        "key": "gardening",
+        "value": "n. 园艺; n. 打扫"
+    },
+    {
+        "key": "hobby",
+        "value": "n. 业余爱好"
+    },
+    {
+        "key": "speedboat",
+        "value": "n. 快艇"
+    },
+    {
+        "key": "desperately",
+        "value": "ad. 拼命地(极严重地,厉害地)"
+    },
+    {
+        "key": "companion",
+        "value": "n. 同伴,同事"
+    },
+    {
+        "key": "water ski",
+        "value": "(由快艇牵引水橇)滑水"
+    },
+    {
+        "key": "buoy",
+        "value": "n. 浮标,浮筒,救生圈; v. 使...浮,支撑"
+    },
+    {
+        "key": "dismay",
+        "value": "n. 沮丧; v. 使...灰心,使...害怕"
+    },
+    {
+        "key": "tremendous",
+        "value": "a. 巨大的,惊人的"
+    },
+    {
+        "key": "petrol",
+        "value": "n. 汽油"
+    },
+    {
+        "key": "drift",
+        "value": "n. 漂移,漂流物,观望,漂流,吹积物,趋势; v. 漂移,漂流,吹积"
+    },
+    {
+        "key": "gently",
+        "value": "ad. 轻轻地,温柔地"
+    },
+    {
+        "key": "commit",
+        "value": "v. 委托(托付),犯罪,作...事,承诺; [计算机] 委托"
+    },
+    {
+        "key": "inspector",
+        "value": "n. 检查员,巡视员"
+    },
+    {
+        "key": "employer",
+        "value": "n. 雇主"
+    },
+    {
+        "key": "confirm",
+        "value": "v. 确定,批准,证实"
+    },
+    {
+        "key": "suggest",
+        "value": "v. 建议,提出"
+    },
+    {
+        "key": "truth",
+        "value": "n. 事实,确实"
+    },
+    {
+        "key": "surface",
+        "value": "n. 表面,平面; a. 表面的,肤浅的; v. 使...成平面,被露出来,在表面工作"
+    },
+    {
+        "key": "explosive",
+        "value": "a. 爆炸(性)的; n. 炸药"
+    },
+    {
+        "key": "vibration",
+        "value": "n. 震动,颤动"
+    },
+    {
+        "key": "collapse",
+        "value": "n. 崩溃,倒塌; v. 倒塌,崩溃,瓦解"
+    },
+    {
+        "key": "drill",
+        "value": "n. 钻孔机,钻子,播种机; v. 训练,钻孔"
+    },
+    {
+        "key": "capsule",
+        "value": "n. 胶囊,太空舱"
+    },
+    {
+        "key": "layer",
+        "value": "n. 层"
+    },
+    {
+        "key": "beneath",
+        "value": "ad. 在下方; prep. 在...之下"
+    },
+    {
+        "key": "lower",
+        "value": "a. 低的,下级的,下层的; v. 降低,跌落,减弱"
+    },
+    {
+        "key": "progress",
+        "value": "n. 进步,发展,前进; v. 促进,进步,进行"
+    },
+    {
+        "key": "smoothly",
+        "value": "adv. 光滑地; 平坦地; 平静地; 顺利的"
+    },
+    {
+        "key": "comedy",
+        "value": "n. 喜剧"
+    },
+    {
+        "key": "present",
+        "value": "n. 礼物,现在; a. 现在的,出席的,当面的; v. 赠送,提出,呈现"
+    },
+    {
+        "key": "queue",
+        "value": "n. 行列,长队; v. 排队; vi. 排长队"
+    },
+    {
+        "key": "dull",
+        "value": "a. 钝的,迟钝的,无趣的; [计算机] 暗淡的"
+    },
+    {
+        "key": "artiste",
+        "value": "n. 艺人"
+    },
+    {
+        "key": "advertiser",
+        "value": "n. 广告者,广告客户"
+    },
+    {
+        "key": "overfish",
+        "value": "v. 过度捕捞"
+    },
+    {
+        "key": "giant",
+        "value": "a. 巨大的; n. 巨人"
+    },
+    {
+        "key": "terrify",
+        "value": "v. 使恐怖"
+    },
+    {
+        "key": "diver",
+        "value": "n. 潜水员"
+    },
+    {
+        "key": "oil rig",
+        "value": "石油钻塔, 钻油设备（如用於海底的）."
+    },
+    {
+        "key": "wit",
+        "value": "n. 智力,才智"
+    },
+    {
+        "key": "cage",
+        "value": "n. 笼子; v. 关入笼中; vt. 把...关入笼内"
+    },
+    {
+        "key": "shark",
+        "value": "n. 鲨鱼"
+    },
+    {
+        "key": "whale",
+        "value": "n. 鲸; vi. 捕鲸"
+    },
+    {
+        "key": "variety",
+        "value": "n. 多样,种类,杂耍"
+    },
+    {
+        "key": "cod",
+        "value": "n. 鳕鱼; v. 哄骗,愚弄"
+    },
+    {
+        "key": "skate",
+        "value": "n. 冰鞋; v. 滑冰; vi. 溜冰,滑冰"
+    },
+    {
+        "key": "factor",
+        "value": "n. 因素,因子"
+    },
+    {
+        "key": "crew",
+        "value": "n. 全体船员,全体乘务员; vi. 一起工作"
+    },
+    {
+        "key": "royal",
+        "value": "a. 王室的,皇家的; n. 王室或皇族之一员"
+    },
+    {
+        "key": "spy",
+        "value": "n. 间谍,侦探,侦察; v. 侦探,找出"
+    },
+    {
+        "key": "track",
+        "value": "n. 小路,跑道,轨道,踪迹; v. 跟踪,追踪"
+    },
+    {
+        "key": "binoculars",
+        "value": "双筒望远镜"
+    },
+    {
+        "key": "ladder",
+        "value": "n. 梯子"
+    },
+    {
+        "key": "shed",
+        "value": "n. 车棚,小屋,脱落之物; v. 使...流出,放射,脱毛"
+    },
+    {
+        "key": "sarcastic",
+        "value": "a. 讽刺的"
+    },
+    {
+        "key": "tone",
+        "value": "n. 音调,语气,品质; v. 调和,以特殊腔调说,配合"
+    },
+    {
+        "key": "monument",
+        "value": "n. 纪念碑"
+    },
+    {
+        "key": "statue",
+        "value": "n. 塑像,雕像"
+    },
+    {
+        "key": "liberty",
+        "value": "n. 自由"
+    },
+    {
+        "key": "present",
+        "value": "n. 礼物,现在; a. 现在的,出席的,当面的; v. 赠送,提出,呈现"
+    },
+    {
+        "key": "sculptor",
+        "value": "n. 雕刻家"
+    },
+    {
+        "key": "actual",
+        "value": "a. 实际的,真实的"
+    },
+    {
+        "key": "copper",
+        "value": "a. (紫)铜色的,铜(制)的; n. 铜,铜币,铜制品"
+    },
+    {
+        "key": "support",
+        "value": "n. 支持,援助,供养; vt. 支援,帮助,支持"
+    },
+    {
+        "key": "framework",
+        "value": "n. 结构,构架,框架"
+    },
+    {
+        "key": "transport",
+        "value": "n.运输、运输工具；(常用复数）强烈的情绪、狂喜或狂怒; v.运输；流放；为强烈的情绪所激动"
+    },
+    {
+        "key": "site",
+        "value": "n. 位置,场所; v. 使...位于,使...放置"
+    },
+    {
+        "key": "pedestal",
+        "value": "n. 基架,座,基础; v. 加座,搁在台上,支持"
+    },
+    {
+        "key": "Los Angeles",
+        "value": "n. 洛杉矶(美国城市)"
+    },
+    {
+        "key": "reluctant",
+        "value": "a. 不情愿的,勉强的"
+    },
+    {
+        "key": "weight",
+        "value": "n. 重量,体重,重担"
+    },
+    {
+        "key": "underwater",
+        "value": "a. 在水中生长的; ad. 水下面的（地）"
+    },
+    {
+        "key": "tricycle",
+        "value": "n. 三轮车"
+    },
+    {
+        "key": "compete",
+        "value": "v. 竞争,对抗"
+    },
+    {
+        "key": "yard",
+        "value": "n. 庭院,码"
+    },
+    {
+        "key": "gasp",
+        "value": "n. 喘气; v. 喘气,喘息,渴望"
+    },
+    {
+        "key": "ambassador",
+        "value": "n. 大使"
+    },
+    {
+        "key": "frightful",
+        "value": "a. 可怕的"
+    },
+    {
+        "key": "fire extinguisher",
+        "value": "灭火器."
+    },
+    {
+        "key": "drily",
+        "value": "ad. 枯燥无味地(干燥地,冷淡地)"
+    },
+    {
+        "key": "embassy",
+        "value": "n. 大使馆"
+    },
+    {
+        "key": "heaven",
+        "value": "n. 天堂"
+    },
+    {
+        "key": "basement",
+        "value": "n. 地下室"
+    },
+    {
+        "key": "definitely",
+        "value": "a. 明确地,确切地; ad. 肯定地"
+    },
+    {
+        "key": "post",
+        "value": "n. 邮件,标竿,职位; v. 邮递,公布,布置"
+    },
+    {
+        "key": "shot",
+        "value": "n. 炮弹,射击,射手; v. 射击,发出,发芽; vbl. 射击,发出,发芽"
+    },
+    {
+        "key": "lantern",
+        "value": "n. 灯笼"
+    },
+    {
+        "key": "spectacle",
+        "value": "n. 值得看的东西,光景,眼镜"
+    }
+]

@@ -32,6 +32,7 @@
         "resources": [
           "~raw.js",
           "resources/lesson.json",
+          "resources/word.json",
           "resources/nce/*"
         ],
         "matches": [
