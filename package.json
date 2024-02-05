@@ -1,11 +1,11 @@
 {
   "name": "new-concept-tab",
   "displayName": "New concept tab",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A basic Plasmo extension.",
   "author": "zibuyu",
   "scripts": {
-    "dev": "plasmo dev",
+    "start": "plasmo dev",
     "build": "plasmo build",
     "test": "plasmo test"
   },

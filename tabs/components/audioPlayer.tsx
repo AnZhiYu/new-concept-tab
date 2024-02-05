@@ -51,7 +51,6 @@ const AudioPlayer = () => {
   useEffect(() => {
     audioRef.current.addEventListener('timeupdate', () => {
       const currentTime = audioRef.current.currentTime * 1000;
-      // console.log('currentTime', currentTime)
       displayLyrics(currentTime);
       setTime(currentTime)
     });

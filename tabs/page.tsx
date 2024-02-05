@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 import './index.less'
 // import {formatNumber} from './utils'
 // import AudioPlayer from './components/audioPlayer.tsx'
@@ -29,6 +29,42 @@ function DeltaFlyerPage() {
   
   const [inputValue, setInputValue] = useState('');
   const [time, setTime] = useState(new Date());
+
+
+  const renderWithSpan = useMemo(()=>{
+    function renderSentence (text){
+      const dataMap = {}
+      
+      wordList.forEach(item=>{
+        dataMap[item.key] = [item.value]})
+
+      const regex = /(\w+)([^\w]*)/g;
+      const renderedText = [];
+    
+      let match;
+      while ((match = regex.exec(text)) !== null) {
+        const word = match[1];
+        const punctuation = match[2];
+
+        if (dataMap[word]) {
+          renderedText.push(<span className="code" key={renderedText.length}>{word}</span>);
+        } else {
+          renderedText.push(word);
+        }
+    
+        renderedText.push(punctuation);
+      }
+    
+      return <>{renderedText}</>;
+    }
+
+    return <>{
+      data?.map((item, index) => (
+        <div className="item" key={index}>{renderSentence(item.text)}</div>
+      ))
+    }</>
+
+  },[data])
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -91,28 +127,6 @@ function DeltaFlyerPage() {
   const minutes = time.getMinutes().toString().padStart(2, '0');
   const seconds = time.getSeconds().toString().padStart(2, '0');
 
-  function renderWithSpan(text) {
-    const wordsToWrap = wordList.map(item=>item.key)
-
-    const regex = /(\w+)([^\w]*)/g;
-    const renderedText = [];
-  
-    let match;
-    while ((match = regex.exec(text)) !== null) {
-      const word = match[1];
-      const punctuation = match[2];
-  
-      if (wordsToWrap.includes(word)) {
-        renderedText.push(<span className="code" key={renderedText.length}>{word}</span>);
-      } else {
-        renderedText.push(word);
-      }
-  
-      renderedText.push(punctuation);
-    }
-  
-    return <>{renderedText}</>;
-  }
 
 
   return (
@@ -133,9 +147,7 @@ function DeltaFlyerPage() {
         </div>
         {/* <AudioPlayer /> */}
         <div className="sentence">
-        {data.map((item, index) => (
-          <div className="item" key={index}>{renderWithSpan(item.text)}</div>
-        ))}
+          {renderWithSpan}
         </div>
         <div className="copyright">By: grey1896</div>
     </div>
